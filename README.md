@@ -32,12 +32,9 @@ I started in help desk and security, and I'm building toward network engineering
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Project One**](link) | One line on what it does and why it matters | Linux, Bash |
-| [**Project Two**](link) | One line on what it does and why it matters | Wazuh, SIEM |
-| [**Project Three**](link) | One line on what it does and why it matters | Packet Tracer, Cisco |
-| [**Project Four**](link) | One line on what it does and why it matters | Python |
+| [**Linux SysAdmin Bat Computer**](link) | Ubuntu server hosting a mock Bat Computer to teach me more about using Linux | Linux, Bash |
 
-Full write-ups live on my portfolio: **[yourusername.github.io](https://yourusername.github.io)**
+
 
 ## `$ ./toolbox.sh`
 
@@ -59,9 +56,9 @@ Full write-ups live on my portfolio: **[yourusername.github.io](https://youruser
 ## `$ ping me`
 
 <p>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/deayre-talley/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://yourusername.github.io"><img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=githubpages&logoColor=black" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="detalley02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
