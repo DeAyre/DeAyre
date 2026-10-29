@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome 
 
 <h1 align="center">De'Ayre Talley</h1>
 
